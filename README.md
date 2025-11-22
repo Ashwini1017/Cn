@@ -639,5 +639,6 @@ public class UDPC {
             e.printStackTrace();
         } finally {
             if (socket != null && !socket.isClosed())
-                sock
-                
+                }
+                }
+                }
